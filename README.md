@@ -7,7 +7,7 @@ The aim of this ontology is to provide a shared link between information silos o
 
 # Potential Applications
 •	This ontology can enable the use of a common vocabulary among functional groups working on the same asset network but sharing common information requirements of such networks.
-•	It can also support an iterative approach to synchronizing changes in asset information, planning decisions and constraints, and inter-project coordination information.
+•	It can also support an iterative approach to updating changes in asset information, planning decisions and constraints, and inter-project coordination information.
 •	IHP-Onto can also be used to characterize and document a structured approach to resolving spatial-temporal conflicts in a proposed highway projects program.
 •	For highway agencies transitioning to the development of interconnected systems, relevant information items to be collected by the agency can also be extracted from this ontology. 
 
